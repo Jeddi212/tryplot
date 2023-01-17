@@ -1,0 +1,17 @@
+name: tryplot
+version: 0.1.0
+
+authors:
+  - Jeddi212 <jedediahf51@gmail.com>
+
+targets:
+  tryplot:
+    main: src/tryplot.cr
+
+crystal: 1.6.2
+
+license: MIT
+
+dependencies:
+  matplotcr:
+    github: ruivieira/matplotcr

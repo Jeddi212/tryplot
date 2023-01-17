@@ -1,0 +1,6 @@
+version: 2.0
+shards:
+  matplotcr:
+    git: https://github.com/ruivieira/matplotcr.git
+    version: 0.1.12
+
